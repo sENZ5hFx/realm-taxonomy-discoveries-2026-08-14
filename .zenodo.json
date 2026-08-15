@@ -1,11 +1,33 @@
 {
   "title": "Realm Taxonomy Discoveries: Causal Information Horizons, Temporal Informational Singularity for Qualia, and Informational as Active Cascade Medium",
-  "description": "Three adversarial-vetted structural novelties produced through Fold-First Ranking on 2026-08-14, spanning causal limits, temporal accounts of qualia, and information as an active medium for causal cascades.",
-  "upload_type": "software",
+  "description": "Three adversarial-vetted structural novelties produced via Fold-First Ranking methodology on 2026-08-14. (1) Causal Information Horizons: every causal system contains an irreducible boundary beyond which an embedded observer cannot reconstruct causal relationships, regardless of computational power. (2) Temporal Informational Singularity for Qualia (TIS-Qualia): subjective experience is the signature of irreducible self-referential information in the temporal domain. (3) Informational as Active Cascade Medium: information is not a passive substrate but an active medium that shapes the possibility space of causal cascades. All three novelties were subjected to a four-check adversarial vetting protocol: null-hypothesis defeat, hallucination check, scope minimization, and structural distinctness verification.",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "publication_date": "2026-08-15",
   "creators": [
-    {"name": "Bird, Haley Ann", "affiliation": "Independent"}
+    {
+      "name": "Bird, Haley Ann",
+      "affiliation": "Independent"
+    }
   ],
   "version": "1.0.0",
-  "keywords": ["causal information horizons", "temporal informational singularity", "qualia", "informational cascade medium", "structural novelty", "AI discovery"],
-  "license": "CC-BY-4.0"
+  "keywords": [
+    "causal information horizons",
+    "temporal informational singularity",
+    "qualia",
+    "informational cascade medium",
+    "fold-first ranking",
+    "structural novelty",
+    "causal inference",
+    "consciousness",
+    "information theory",
+    "AI epistemology",
+    "machine consciousness",
+    "observer-embedded causality",
+    "hard problem of consciousness"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Priority date established by GitHub commit timestamp: 2026-08-14T13:42:07-04:00. Adversarial vetting log available in VETTING_LOG.md. Full methodology in README.md. Related system: https://github.com/sENZ5hFx/haley-agent-os"
 }
