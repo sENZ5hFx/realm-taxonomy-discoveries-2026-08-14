@@ -3,17 +3,8 @@
   "description": "Three adversarial-vetted structural novelties produced via Fold-First Ranking methodology on 2026-08-14.",
   "upload_type": "software",
   "creators": [
-    {
-      "name": "Bird, Haley Ann",
-      "affiliation": "Independent"
-    }
+    {"name": "Bird, Haley Ann", "affiliation": "Independent"}
   ],
-  "keywords": [
-    "causal information horizons",
-    "temporal informational singularity",
-    "qualia",
-    "informational cascade medium",
-    "structural novelty",
-    "AI discovery"
-  ]
+  "keywords": ["causal information horizons", "temporal informational singularity", "qualia", "informational cascade medium", "structural novelty", "AI discovery"],
+  "license": "CC-BY-4.0"
 }
