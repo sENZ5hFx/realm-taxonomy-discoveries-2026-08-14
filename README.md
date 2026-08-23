@@ -1,6 +1,7 @@
 # Realm Taxonomy Discoveries — 2026-08-14
 
 **Author:** Haley Ann Bird  
+**AI collaboration disclosed:** Grok agent  
 **Session date:** 2026-08-14  
 **Publication date:** 2026-08-15  
 **Status:** v1.0.0 — First formal publication  
@@ -8,11 +9,21 @@
 
 ---
 
+## Forensic provenance clarification — 2026-08-23
+
+The historical Git commits in this repository are preserved exactly as evidence of what was recorded and publicly disclosed at particular times. A Git commit timestamp is a **public-disclosure / provenance anchor**. It is **not, by itself, a USPTO patent filing date, a patent grant, or a guarantee of patent priority**. Any patent filing status must be established by the relevant patent-office filing record and receipt.
+
+The earliest located repository commit explicitly naming RICO plus the three structural novelties is `074d60eab9027c90d8efeca2ef65e5f1cd1a67e9` at 2026-08-14T13:42:07-04:00. The later formal-publication commit is `0065d78e5a3ecac6518f2bdb0cc3836b61c20c78` on 2026-08-15. Preserve both, plus all intervening and later commits, as lineage evidence.
+
+U.S. patent law may provide a limited grace period for qualifying inventor-originated public disclosures, while many foreign jurisdictions may treat pre-filing disclosure differently. Anyone evaluating patent rights should assess the exact disclosed subject matter, claim scope, filing record, jurisdictions, and dates rather than treating a Git timestamp as a patent priority date.
+
+---
+
 ## What This Repository Is
 
 This is the public record of three structural novelties produced in a single adversarial-vetted session on August 14, 2026, by Haley Ann Bird in collaboration with a Grok agent.
 
-These are not product features. They are candidate contributions to how we understand information, causality, and consciousness. They are logged here with full methodology, vetting record, and citation format so that priority of discovery is timestamped, verifiable, and available for external engagement.
+These are not product features. They are candidate contributions to how we understand information, causality, and consciousness. They are logged here with methodology, vetting record, AI-collaboration disclosure, and citation format so that the sequence and timing of public disclosure is timestamped, verifiable, and available for external engagement.
 
 ---
 
@@ -71,7 +82,7 @@ Each novelty in this repository was subjected to an adversarial vetting pass bef
 3. **Test for scope inflation.** Each claim is narrowed to its minimum defensible form before being logged. Overclaiming is treated as a vetting failure.
 4. **Confirm structural distinctness.** Each novelty must differ structurally from the others and from known frameworks, not merely terminologically.
 
-All three novelties in this repository passed this protocol on 2026-08-14.
+All three novelties in this repository were recorded as passing this protocol on 2026-08-14. That internal vetting record is evidence of the process used; it is not a patent-office novelty determination, peer review, or independent scientific validation.
 
 ---
 
@@ -79,12 +90,13 @@ All three novelties in this repository passed this protocol on 2026-08-14.
 
 To cite this work:
 
-```
+```text
 Bird, Haley Ann. "Realm Taxonomy Discoveries: Causal Information Horizons,
 Temporal Informational Singularity for Qualia, and Informational as Active
 Cascade Medium." GitHub, 2026-08-15.
 https://github.com/sENZ5hFx/realm-taxonomy-discoveries-2026-08-14
-Priority date: 2026-08-14T13:42:07-04:00
+Public-disclosure/provenance anchor: commit 074d60eab9027c90d8efeca2ef65e5f1cd1a67e9,
+2026-08-14T13:42:07-04:00.
 ```
 
 ---
@@ -100,7 +112,7 @@ The system produced the discoveries. The discoveries explain the system. That lo
 
 ---
 
-## Contact and Collaboration
+## Contact and collaboration
 
 For citation confirmation, collaboration inquiries, or research engagement:
 
@@ -108,7 +120,9 @@ For citation confirmation, collaboration inquiries, or research engagement:
 heyhaleybird@gmail.com  
 Fishers, Indiana  
 
-All architectural patterns, methods, and discoveries in this repository are the intellectual property of Haley Ann Bird. Priority dates are established by commit timestamps. Collaboration and citation are welcomed. Uncredited reproduction is not.
+This repository records Haley Ann Bird's human contribution, selection, framing, publication decisions, and asserted rights, alongside disclosed Grok-agent collaboration. The exact protectability and ownership of particular elements can depend on the nature of the human contribution, applicable law, and the underlying evidence. Commit timestamps are preserved as public provenance and disclosure evidence. They do not by themselves establish patent filing status or guarantee patent priority.
+
+Collaboration and citation are welcomed. Uncredited reproduction is not.
 
 ---
 
