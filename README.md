@@ -1,15 +1,7 @@
 # Historical public research record — disclosure review
 
-This repository preserves a research record that was publicly disclosed in August 2026.
+This repository was previously made public. Current HEAD has been minimized pending disclosure and protection review.
 
-The current default branch has been intentionally minimized while disclosure and protection strategy are reviewed. Detailed material from earlier public commits remains part of the repository's historical public record; this change does **not** undo, retract, or conceal the fact of prior disclosure.
+Historical public commits remain part of the repository history. This change does not undo prior disclosure and does not establish novelty, validation, filing status, patentability, trade-secret status, or legal priority.
 
-No current statement in this repository should be read as a claim of:
-- patent filing or patent-pending status;
-- legal priority;
-- patentability or protectability;
-- independent scientific validation;
-- peer review;
-- production implementation.
-
-Historical commits are being preserved for provenance and future counsel review. No additional enabling detail should be added to the public branch without an explicit disclosure decision.
+No additional detailed material should be added to the public branch without an explicit disclosure decision.
